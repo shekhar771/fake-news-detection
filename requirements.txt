@@ -12,11 +12,6 @@ bottleneck
 brotlipy
 cached-property
 comtypes
-conda-build
-conda-package-handling
-conda-repo-cli
-conda-token
-conda-verify
 contextlib2
 cython
 cytoolz
@@ -75,7 +70,6 @@ sip
 sklearn
 sortedcollections
 sphinxcontrib-websupport
-spyder
 sqlalchemy
 statsmodels
 sympy
