@@ -1,4 +1,4 @@
-
+executable pg_config
 argh
 asn1crypto
 astropy
