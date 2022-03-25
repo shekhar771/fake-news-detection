@@ -53,5 +53,5 @@ scikit-lear
 scipy
 six
 
-threadpoolctl==2.2.0
-Werkzeug==2.0.1
+threadpoolctl
+Werkzeug
