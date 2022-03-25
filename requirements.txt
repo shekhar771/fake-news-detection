@@ -30,8 +30,7 @@ imagecodecs
 jdcal
 jupyter
 jupyterlab
-lxml
-mkl-fft
+
 mkl-random
 mkl-service
 mlxtend
