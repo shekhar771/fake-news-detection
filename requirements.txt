@@ -37,7 +37,6 @@ mock
 more-itertools
 multipledispatch
 munkres
-mypy-extensions
 navigator-updater
 nltk
 nose
