@@ -37,7 +37,6 @@ mock
 more-itertools
 multipledispatch
 munkres
-navigator-updater
 nltk
 nose
 numba
