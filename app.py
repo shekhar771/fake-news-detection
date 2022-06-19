@@ -1,8 +1,10 @@
 from flask import Flask, escape, request, render_template
 import pickle
 
-vector = pickle.load(open("vectorizer_last.pkl", 'rb'))
-model = pickle.load(open("finalized_last_model.pkl", 'rb'))
+vector = pickle.load(open(
+    "F:\\projects\\fake news detection\\mini_project\\vectorizer_last.pkl", 'rb'))
+model = pickle.load(open(
+    "F:\\projects\\fake news detection\\mini_project\\finalized_last_model.pkl", 'rb'))
 
 app = Flask(__name__)
 
