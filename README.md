@@ -1,4 +1,4 @@
-# Fake News Dtection System
+# Fake News prediction System
 ## A fully functional simple project written in Jupyter notebook that detects fake news. 
 
 
